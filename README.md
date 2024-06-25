@@ -11,6 +11,7 @@ FUTURE HEALER
 
 <h1>Lancement du jeu</h1>
 <p>Le lancement du jeu est très facile. Il fonctionne sur différents navigateurs (<b>Google Chrome</b> est recommandé) et peut être adapté à plusieurs écrans. <b>Dans certains cas, il est recommandé d'agrandir le navigateur à 125 % pour une meilleure expérience de jeu.</b></p>
+<p>Le lien pour jouer au jeu est celui-ci: <a href="https://gianmarcosapienza.itch.io/future-healer">FUTURE HEALER</a></p>
 
 <h1>Copyright, références et licences</h1>
 
