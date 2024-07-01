@@ -26,6 +26,12 @@
   </p>
   <h2>Musiques et Sounds</h2>
   <p>Les sons proviennent également de bibliothèques gratuites trouvées sur itch.io ou splice, qui est une bibliothèque d'échantillons gratuits et commercialement réutilisables. Je me sers beaucoup de cette dernière pour composer des chansons et ajouter des samples dans certains morceaux personnels. La bande son du jeu, en revanche, a été entièrement composée par mes soins et dans ce cas, je n'ai pas utilisé de fichiers supplémentaires. </p>
+  <p>Pour la création de la musique, je me suis inspiré par différentes style d'oeuvres vidéoludiques que j'ai rencontré dans ma vie. Les musiques sont en générale influencées par plusieurs artistes, styles et jeux. La Soundtrack officielle est disponible gratuitement sur Soundcloud à l'adresse suivant :-) </p>
+
+  <h3>Official Soundtrack</h3>
+  <a href="https://soundcloud.com/jimmy_wiseey/sets/future-healer-game-ost?si=6d0afa7737ad41d395f93ce599f4a8cd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+    <img src="ASSETS/backgrounds/future_healer_Title_Game.png">
+  </a>
   <p>le Sound Pack utilisé pour effets de son: <a href="https://ivyism.itch.io/8-16-bit-half-life">Sound Pack</a></p>
 
 <h1>Contexte de développement</h1>
